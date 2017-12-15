@@ -1,5 +1,51 @@
-body {
-  margin: 0;
-  padding: 0;
+.home {
+  background: #fff;
   font-family: sans-serif;
 }
+
+.header {
+  width: 100%;
+  height: 50px;
+  /* 23E */
+  background: #ab2a19;
+  color: #fff;
+  /* 23D */
+  font-weight: 700;
+  font-size: 30px;
+  /* 24E */
+  padding-left: 220px; 
+}
+
+.header img {
+  height: 35px;
+  width: 35px;
+  /* 25C */
+  position: relative;
+  top: 5px;
+}
+
+.body {
+
+}
+
+.shelf {
+  width: 350px;
+  height: 50px;
+  background: #d34735;
+  margin: auto;
+  margin-top: 10px;
+  /* 24D */
+  border: solid;
+  border-color: #d34735;
+  border-radius: 5px; 
+  color: #fff;
+}
+
+.sText {
+  /* 24C */
+  margin-top: 14px;
+  margin-left: 80px;
+  font-weight: 600;
+  font-size: 20px;
+}
+
